@@ -1,0 +1,3 @@
+Based on this lab, why is using branches a powerful and safe way for a team of
+software engineers to collaborate on a single project? What problems might it
+prevent?: I believe that using branches saves alot of time and energy, it will keep all the old code that has been edited and push or merged to the main branch.
